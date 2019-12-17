@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-
+# Tic-Tac-Toe
  Program for 2-D tic tac toe using magic square concept.
  
  ![Test Image 1](https://github.com/illisha/Tic-Tac-Toe-/blob/master/img1.png)
